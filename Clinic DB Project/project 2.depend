@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589161449 source:c:\users\hp-ht\desktop\project 2\main.cpp
+	<iostream>
+	<string.h>
+	<stdbool.h>
+
